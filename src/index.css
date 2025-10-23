@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html {
+  zoom: 0.85  ;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
